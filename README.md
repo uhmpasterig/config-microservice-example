@@ -1,6 +1,6 @@
 # Nesjts Redis Config Microservice
 
-The example microservice used for [nest-redis-config](https://github.com/uhmpasterig/nest-redis-config) which is an alternative to the [@nestjs/config](https://github.com/nestjs/config) package which uses redis to store data, so ur able to share that data across your Microservices.
+The example microservice used for [nest-redis-config](https://github.com/uhmpasterig/nest-redis-config) which is an alternative to the [@nestjs/config](https://github.com/nestjs/config) package which uses [Redis](https://github.com/redis/redis) to store data, so ur able to share that data across your Microservices.
 
 ## Installation
 
