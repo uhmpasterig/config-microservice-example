@@ -5,7 +5,7 @@ The example microservice used for [nest-redis-config](https://github.com/uhmpast
 ## Installation
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the app
