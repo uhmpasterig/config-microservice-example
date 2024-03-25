@@ -2,8 +2,6 @@
 
 The example microservice used for [nest-redis-config](https://github.com/uhmpasterig/nest-redis-config) which is an alternative to the @nestjs/config package which uses redis to store data, so ur able to share that data across your Microservices.
 
-![Logo](https://nestjs.com/img/logo-small.svg)
-
 ## Installation
 
 ```bash
